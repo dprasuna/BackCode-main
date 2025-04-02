@@ -1,30 +1,35 @@
-# BackCode | Home for the optimized backend head start codes
+# BackCode | Home for the Optimized Backend Head Start Codes
 
-![Banner](./banner.png)
-
-I am building a shadcn for backend development. Detailed project structure and code for every file just copy paste to your project and give more focus to your core functionalities !!
-
-## For the contribution part
-
-I will be openeing few issues related to revamp of the website and db connections 
-
-for now you can add projects just by editing the `projects.json` file in the root directory or by visiting the contribution panel of the platform
-
-## Things to note
-
-When your are contributing, there is place to fill `Link` section in this you need to give the dynaminc url of project like, If the user is contributing for a cache management then the link would look like this `/post/cache-management-{language}`
-
-## Tech Stack
-
-I have used NextJs and local json file to store all the files and codes.
-
-## Future Releases ?? 
-
-For the upcoming part we are enlisting few features
-- Auth/OAuth 
-- DB (Supabase obv)
-- Users can save the post and the codes, like, leave comments and discuss
+![Uploading image.png…]()
 
 
-Built by [Mrinal Pramanick](https://twitter.com/Hi_Mrinal)
+## 🚀 About the Project
+BackCode is a **shadcn-style** framework for backend development. It provides a well-structured project setup with detailed code files—just **copy, paste, and focus on your core functionalities**!
 
+## 📌 Contribution Guidelines
+We welcome contributions! If you'd like to help improve the project, here’s how you can contribute:
+
+### 🔹 Current Tasks
+- We'll be opening issues related to **website revamp** and **database connections** soon.
+- For now, you can add new projects by **editing the `projects.json` file** in the root directory or by visiting the **contribution panel** on the platform.
+
+### 🔹 How to Structure Your Contribution
+When adding a project, fill in the `Link` section with a **dynamic URL** based on the topic and language. For example:
+```
+/post/cache-management-nodejs
+/post/cache-management-python
+```
+
+## 🛠 Tech Stack
+- **Next.js** for the frontend
+- **Local JSON files** for data storage (soon to be replaced with Supabase)
+
+## 🔥 Upcoming Features
+- **Authentication (OAuth & Custom Auth)**
+- **Database Integration (Supabase)**
+- **User Features**
+  - Save posts & code snippets
+  - Like, comment, and discuss
+
+## 🤝 Built by [PRASUNA DASH](https://twitter.com/prasunadash)  
+Let's make BackCode even better together! 🚀
